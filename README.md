@@ -4,9 +4,9 @@
 
 <p align="left"> <img width="100%" height="450px" src="https://media4.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47tpuhrmemrur90ppma82gi2qwcvn45bt5mxzcaul2&rid=giphy.gif&ct=s" alt="vishal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1106" alt="vishal1106" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=vishal1106" alt="vishal1106" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/stardomeof" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/stardomeof?logo=twitter&style=for-the-badge" alt="https://twitter.com/stardomeof" /></a> </p>
+
 
   
 -  🌱 I’m currently learning **Node.js Express.js TypeScript.js**
