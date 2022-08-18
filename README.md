@@ -1,31 +1,49 @@
- <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--dky3QltZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqixlyiu011wal9v7awe.jpg"/>
-
- <h1>Hi <span> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/></span>, I'm Vishal Gholve</h1>      
-<h3>I'm a Full Stack Web Developer and Competitive Programmer from India.</h3>
  
- <div style="dispaly:flex; ">
- <img src="https://camo.githubusercontent.com/cdb4507ac3db5aa4bad2edc243f44ae03ad257ed5982a2f9e20cb4db144c53fb/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f757365722d6d616c652d636972636c652d2d76322e706e67"><span><h3>  About Me</h3></span></img>
+<h1 align="center size="200px">Hi 👋, I'm Vishal Gholve </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
- </div>
-<ul>
+<p align="left"> <img width="100%" height="450px" src="https://media4.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47tpuhrmemrur90ppma82gi2qwcvn45bt5mxzcaul2&rid=giphy.gif&ct=s" alt="vishal" /> </p>
 
-<li>👨‍💻 My Portfolio - <a href="https://super-toffee-b76528.netlify.app">Vishal Gholve</a></li>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1106" alt="vishal1106" /></a> </p>
 
-<li>👯 I am passionate about Web Dev & I enjoy learning new things </li>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/stardomeof" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/stardomeof?logo=twitter&style=for-the-badge" alt="https://twitter.com/stardomeof" /></a> </p>
 
-<li>🌱 I’m currently learning Data Structures,React ,Redux and Algorithms.</li>
+  
+-  🌱 I’m currently learning **Node.js Express.js TypeScript.js**
 
-<li>📫 How to reach me  <span Style="color:blue">vishalgholve999@gmail.com </span></li>
-</ul>
+- 👨‍💻 All of my projects are available at [https://vishal-gholve-portfolio.netlify.app](https://vishal-gholve-portfolio.netlify.app)
+- 💬 Ask me about **React,Redux ,TypeScript**
 
+- 📫 How to reach me **vishalgholve408@gmail.com**
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishal1106&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<h2>My Github Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal1106&show_icons=true&theme=radical)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing)](https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing)
+<img align="right" width="400px" height="300px" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47si19ju0lwt3w6sgm59pm5vt16tb6mcohvwpvlcft&rid=giphy.gif&ct=g"/>
+- ⚡ Fun fact **Nothing Is Funny**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1106&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-gholve-444b9122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal" height="30" width="40" /></a>
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishal" height="30" width="40" /></a>
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal1106&show_icons=true&locale=en" alt="vishal1106" /></p>    
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&" alt="vishal1106" /></p>
+
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1106&show_icons=true&locale=en&layout=compact" alt="vishal1106" /></p>
+
+
+
+               
+                                                                                                                
+                                                                                                                                                                   
+                                                                                                                    
+                                                                                                                 
+                                                                                                                  
