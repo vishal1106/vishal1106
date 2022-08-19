@@ -11,14 +11,16 @@
   
 -  🌱 I’m currently learning **Node.js Express.js TypeScript.js**
 
-- 👨‍💻 All of my projects are available at [https://vishal-gholve-portfolio.netlify.app](https://vishal-gholve-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at  <a href="vishalgholve-portfolio.netlify.app">Here</a>
 - 💬 Ask me about **React,Redux ,TypeScript**
 
 - 📫 How to reach me **vishalgholve408@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing)](https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing"> Resume</a>
 <img align="right" width="400px" height="300px" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47si19ju0lwt3w6sgm59pm5vt16tb6mcohvwpvlcft&rid=giphy.gif&ct=g"/>
 - ⚡ Fun fact **Nothing Is Funny**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
