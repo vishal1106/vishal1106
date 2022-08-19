@@ -11,7 +11,7 @@
   
 -  🌱 I’m currently learning **Node.js Express.js TypeScript.js**
 
-- 👨‍💻 All of my projects are available at [vishalgholve-portfolio.netlify.app](vishalgholve-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://vishalgholve-portfolio.netlify.app/](https://vishalgholve-portfolio.netlify.app/)
 - 💬 Ask me about **React,Redux ,TypeScript**
 
 - 📫 How to reach me **vishalgholve408@gmail.com**
