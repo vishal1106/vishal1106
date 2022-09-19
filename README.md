@@ -1,6 +1,8 @@
  
 <h1 align="center size="200px">Hi 👋, I'm Vishal Gholve </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
+I am also an open-source enthusiast and maintainer.</p>
 
 <p align="left"> <img width="100%" height="450px" src="https://media4.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47tpuhrmemrur90ppma82gi2qwcvn45bt5mxzcaul2&rid=giphy.gif&ct=s" alt="vishal" /> </p>
 
@@ -39,6 +41,13 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&" alt="vishal1106" /> </p>
+
+<br>
+<br>
+<br>
+<div align="left">
+<img alt="vishal-gholve" src="https://activity-graph.herokuapp.com/graph?username=vishal1106&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+  </div>
 
 
  
