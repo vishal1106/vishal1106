@@ -61,9 +61,9 @@ I am also an open-source enthusiast and maintainer.</p>
   <br/>
   <br/>
   <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1106&show_icons=true&locale=en&layout=compact" alt="vishal-gholve" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1106&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="vishal-gholve" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal1106&show_icons=true&locale=en" alt="vishal-gholve" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vishal1106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="vishal-gholve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&" alt="vishal-gholve" /></p>
 <div align="left">
