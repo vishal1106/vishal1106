@@ -57,34 +57,30 @@ I am also an open-source enthusiast and maintainer.</p>
 
 </p>
 ## 📊 My Github Stats
+ <br/>
+ <br/>
 
-  <br/>
-  <br/>
-  <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="vishal-gholve" /></p>
-
-<br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-<br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishal1106&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 
 
 
+  <summary>:zap: Most Used Languages</summary>
+  <br>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1106&langs_count=10&theme=gruvbox&layout=compact" />
+  <br>
+  <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vishal1106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="vishal-gholve" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="vishal-gholve" /></p>
-<div align="left">
 
-  </div>
+  <summary>:zap: Github Streak Stats</summary>
+  <br>
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&theme=gruvbox" />
+
+<br><br>
+
+
  
 
 
